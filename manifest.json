@@ -1,7 +1,7 @@
 {
-  "name": "余乐",
-  "short_name": "余乐",
-  "description": "和余乐聊天",
+  "name": "jasmine",
+  "short_name": "jasmine",
+  "description": "chat with ❤️",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#0d0d0d",
